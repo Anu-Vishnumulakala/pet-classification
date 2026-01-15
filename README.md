@@ -9,3 +9,4 @@ A pre-trained deep learning model used for pet face classification.
 Loads the model, preprocesses the input image, and outputs the prediction.
 - Test Image (test_pet.jpg)
 Sample image used to validate and test the model predictions.
+
